@@ -1,0 +1,45 @@
+.first {
+  transform: translate(-50%, -50%);
+  padding-left: 800px;
+  padding-top: 350px;
+  padding-bottom: 350px;
+  padding-right: 800px;
+}
+
+.logo {
+  margin-left: 30px;
+}
+
+.mimarlıktext {
+  text-align: center;
+}
+
+.sol {
+  position: relative;
+  top: 1000px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.orta {
+  position: relative;
+  top: 1000px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.sağ {
+  position: relative;
+  top: 1000px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.işfotoları {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
